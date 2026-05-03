@@ -1,1 +1,1 @@
-vllm/vllm-openai-cpu:latest-arm64
+linux/arm64 node:18-alpine
