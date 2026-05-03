@@ -1,1 +1,1 @@
---platform linux/arm64 nginx:alpine
+--platform linux/arm64 postgres:15-alpine
