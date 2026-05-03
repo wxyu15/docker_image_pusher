@@ -1,1 +1,1 @@
-linux/arm64 node:18-alpine
+--platform linux/arm64 node:18-alpine
