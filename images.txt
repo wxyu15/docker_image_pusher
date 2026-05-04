@@ -1,1 +1,1 @@
---platform linux/arm64 postgres:15-alpine
+--platform linux/arm64 homeassistant/home-assistant:latest
