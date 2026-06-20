@@ -1,1 +1,1 @@
---platform linux/arm64 homeassistant/home-assistant:latest
+--platform linux/arm64 docker.io/library/python:3.11-slim
