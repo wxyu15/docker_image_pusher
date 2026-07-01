@@ -1,1 +1,2 @@
---platform linux/arm64 vllm/vllm-openai-rocm:nightly
+--platform linux/amd64 vllm/vllm-openai:cu129-nightly
+--platform linux/arm64 vllm/vllm-openai:cu129-nightly
