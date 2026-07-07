@@ -1,2 +1,1 @@
---platform linux/amd64 vllm/vllm-openai:v0.24.0-cu129-ubuntu2404
---platform linux/arm64 vllm/vllm-openai:v0.24.0-aarch64-cu129-ubuntu2404
+--platform linux/amd64 minio/mc:RELEASE.2024-11-17T19-35-32Z
