@@ -1,1 +1,1 @@
---platform linux/amd64 nginx:latest
+--platform linux/amd64 busybox:latest
