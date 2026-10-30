@@ -1,1 +1,11 @@
---platform linux/amd64 minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
+--platform linux/amd64 cr.weaviate.io/semitechnologies/weaviate:1.39.13
+--platform linux/amd64 langgenius/dify-sandbox:0.2.15
+--platform linux/amd64 langgenius/dify-agent-local-sandbox:1.18.0
+--platform linux/amd64 langgenius/dify-api:1.18.0
+--platform linux/amd64 langgenius/dify-plugin-daemon:0.6.10-local
+--platform linux/amd64 ubuntu/squid:latest
+--platform linux/amd64 nginx:latest
+--platform linux/amd64 busybox:latest
+--platform linux/amd64 redis:6-alpine
+--platform linux/amd64 langgenius/dify-agent-backend:1.18.0
+--platform linux/amd64 langgenius/dify-web:1.18.0
