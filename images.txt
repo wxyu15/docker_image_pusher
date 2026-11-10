@@ -1,1 +1,1 @@
---platform linux/amd64 postgres:16.6-alpine
+--platform linux/amd64 dockerfile:1.7
