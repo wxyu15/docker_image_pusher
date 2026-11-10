@@ -1,1 +1,1 @@
---platform linux/amd64 dockerfile:1.7
+--platform linux/amd64 docker/dockerfile:1.7
